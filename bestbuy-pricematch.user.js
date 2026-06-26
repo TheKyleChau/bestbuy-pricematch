@@ -4,8 +4,8 @@
 // @version      4.0.0
 // @description  Auto-submits Best Buy price match requests for all eligible items on any order page
 // @author       Kyle Chau
-// @updateURL    https://bestbuy.kyle.jp/bestbuy-pricematch.user.js
-// @downloadURL  https://bestbuy.kyle.jp/bestbuy-pricematch.user.js
+// @updateURL    https://github.com/TheKyleChau/bestbuy-pricematch/raw/refs/heads/main/bestbuy-pricematch.user.js
+// @downloadURL  https://github.com/TheKyleChau/bestbuy-pricematch/raw/refs/heads/main/bestbuy-pricematch.user.js
 // @match        https://www.bestbuy.com/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_addStyle
